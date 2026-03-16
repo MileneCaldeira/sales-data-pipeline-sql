@@ -1,0 +1,41 @@
+id_venda,data_venda,id_cliente,produto,categoria,quantidade,preco_unitario,desconto_pct,status,regiao
+V001,2024-03-01,C001,Notebook Dell,Eletrônicos,1,3200.00,0,Concluída,Sudeste
+V002,2024-03-02,C002,Mouse Logitech,Periféricos,2,150.00,5,Concluída,Sudeste
+V003,2024-03-03,,Teclado Mecânico,Periféricos,1,380.00,0,Concluída,Sudeste
+V004,2024-03-04,C004,Monitor LG,Eletrônicos,-1,1800.00,10,Concluída,Sudeste
+V005,2024-03-05,C005,Headset Gamer,Periféricos,3,250.00,0,Cancelada,Sul
+V006,2024-03-06,C006,SSD 1TB,Armazenamento,2,420.00,0,Concluída,Nordeste
+V007,2024-03-07,C007,Webcam HD,Periféricos,1,320.00,5,Concluída,Sudeste
+V008,2024-03-08,C008,Notebook Lenovo,Eletrônicos,1,2900.00,0,Concluída,Nordeste
+V009,2024-03-09,C009,HD Externo 2TB,Armazenamento,1,550.00,0,Pendente,Sul
+V010,2024-03-10,C010,Impressora HP,Outros,1,890.00,10,Concluída,Sudeste
+V011,2024-03-11,C001,Mouse Logitech,Periféricos,1,150.00,0,Concluída,Sudeste
+V012,2024-03-12,C002,Notebook Dell,Eletrônicos,1,3200.00,0,Cancelada,Sudeste
+V013,2024-03-13,C011,SSD 512GB,Armazenamento,3,280.00,5,Concluída,Centro-Oeste
+V014,2024-03-14,C012,Monitor Samsung,Eletrônicos,2,1500.00,0,Concluída,Sudeste
+V015,2024-03-15,C013,Teclado Sem Fio,Periféricos,1,220.00,0,Concluída,Norte
+V016,2024-03-16,C014,Webcam 4K,Periféricos,1,680.00,15,Concluída,Sudeste
+V017,2024-03-17,C015,Notebook Acer,Eletrônicos,1,2600.00,0,Concluída,Sudeste
+V018,2024-03-18,C016,HD Externo 1TB,Armazenamento,2,380.00,0,Concluída,Sudeste
+V019,2024-03-19,C017,Headset Sony,Periféricos,1,450.00,5,Concluída,Sudeste
+V020,2024-03-20,C018,Impressora Epson,Outros,1,1200.00,0,Pendente,Sul
+V021,2024-03-21,C019,Notebook Dell,Eletrônicos,2,3200.00,10,Concluída,Sudeste
+V022,2024-03-22,C020,Mouse Sem Fio,Periféricos,4,120.00,0,Concluída,Nordeste
+V023,2024-03-23,C001,SSD 2TB,Armazenamento,1,780.00,0,Concluída,Sudeste
+V024,2024-03-24,C003,Teclado Mecânico,Periféricos,2,380.00,5,Concluída,Sudeste
+V025,2024-03-25,C004,Monitor Samsung,Eletrônicos,3,1500.00,0,Concluída,Sudeste
+V026,2024-03-26,C007,Notebook Dell,Eletrônicos,1,3200.00,0,Concluída,Sudeste
+V027,2024-03-27,C009,SSD 2TB,Armazenamento,1,780.00,0,Cancelada,Sul
+V028,2024-03-28,C001,Headset Gamer,Periféricos,1,250.00,0,Concluída,Sudeste
+V029,2024-03-29,C002,Webcam HD,Periféricos,2,320.00,5,Concluída,Sudeste
+V030,2024-03-30,C003,Monitor Samsung,Eletrônicos,1,1500.00,0,Concluída,Sudeste
+V031,2024-03-31,C001,Notebook Dell,Eletrônicos,1,3200.00,0,Concluída,Sudeste
+V032,2024-04-01,C005,SSD 1TB,Armazenamento,2,420.00,0,Concluída,Sul
+V033,2024-04-01,C005,SSD 1TB,Armazenamento,2,420.00,0,Concluída,Sul
+V034,2024-04-02,C010,Monitor LG,Eletrônicos,1,99999.00,0,Concluída,Sudeste
+V035,2024-04-03,C012,Headset Gamer,Periféricos,1,250.00,110,Concluída,Sudeste
+V036,2024-04-04,C014,Notebook Dell,Eletrônicos,1,3200.00,0,Aprovada,Sudeste
+V037,2024-04-05,C007,Mouse Logitech,Periféricos,0,150.00,0,Concluída,Sudeste
+V038,2024-04-06,C019,Webcam HD,Periféricos,1,320.00,5,Concluída,Sudeste
+V039,2024-04-07,C001,SSD 512GB,Armazenamento,2,280.00,0,Concluída,Sudeste
+V040,2024-04-08,C003,Monitor Samsung,Eletrônicos,1,1500.00,0,Concluída,Sudeste
